@@ -1,0 +1,9 @@
+.header .menu {
+  background-color: #131419;
+}
+.header .menu__list {
+  list-style-type: none;
+}
+.header .menu__list .menu__list_item {
+  list-style-type: none;
+}/*# sourceMappingURL=style.css.map */
